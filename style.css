@@ -10,7 +10,7 @@ body{
     width: 100vw;
 }
 header{
-    background-color: rgb(196, 76, 156);
+    background-color: rgb(58, 68, 175);
     padding: 20px;
     color: white;
     
@@ -45,17 +45,17 @@ form input[type="text"]
 flex-grow: 1;
 }
 form  button[type="submit"]{
-    background-color: rgb(196, 76, 156);
-    color: white;
+    background-color: rgb(248, 29, 29);
+    color: rgb(255, 255, 255);
     margin-left: 10px;
     cursor: pointer;
 }
 footer{
-    background-color: rgb(196, 76, 156);
-color: white;
+    background-color: rgb(85, 59, 151);
+color: rgb(255, 255, 255);
 padding: 20px;
 text-align: center;
-font-size: 18px;
+font-size: 20px;
 position: fixed;
 width: 100%;
 }
@@ -65,7 +65,7 @@ width: 100%;
     padding: 20px;
     border-radius: 5px;
     margin-top: 20px;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+    box-shadow: 0px 0px 10px rgba(236, 232, 232, 0.64);
 }
 .result p{
   margin-top: 10px;  
@@ -80,7 +80,7 @@ width: 100%;
 }
 .result div a{
     text-decoration: none;
-    background-color: rgb(196, 76, 156);
+    background-color: rgb(102, 81, 219);
     color: white;
     padding: 10px;
 
